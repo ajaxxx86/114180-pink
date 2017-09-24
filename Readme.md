@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Евгений Дорогов](https://up.htmlacademy.ru/adaptive/12/user/114180).
-* Наставник: `Неизвестно`.
+* Наставник: `Максим Клевцов`.
 
 ---
 
